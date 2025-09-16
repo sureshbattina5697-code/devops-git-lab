@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 setting: value-from-feature-a
+setting: value-from-feature-b
+>>>>>>> feature-b
