@@ -1,2 +1,2 @@
-setting: value-from-feature-a --update
+setting: value-from-feature-a --update ------updated
 setting: value-from-feature-b
